@@ -1,24 +1,13 @@
-# proje-7
+# Vue-Translator with Yandex Translate API
 
-## Project setup
-```
-yarn install
-```
+## Core technologies
+Html,Css,Js,Nodejs,Vuejs
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Plugins
+axios, yandex translate api, bootstrap
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Database
+No database used.
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Brief
+A Light translator project with translate history. The text language you wrote to text box will be recognized automatically by API.
