@@ -10,4 +10,4 @@ axios, yandex translate api, bootstrap
 No database used.
 
 ## Brief
-A Light translator project with translate history. The text language you wrote to text box will be recognized automatically by API. <span style="background-color: #ccc">YANDEX_API_KEY</span> must be declared under <span style="background-color: #ccc">/private/keys.js</span>.
+A Light translator project with translate history. The text language you wrote to text box will be recognized automatically by API. `YANDEX_API_KEY` must be declared under `/private/keys.js`.
